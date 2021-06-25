@@ -1,0 +1,30 @@
+jQuery.noConflict();
+	     jQuery(document).ready(function($){	     
+	     	$('#jm-slide-1258839829148865494573912539').Slideshow2({
+	                startItem: 0,
+	                showItem: 8,
+	                itemWidth: 50,
+	                itemHeight: 50,
+	                mainWidth: 900,
+	                mainHeight: 300,
+	                duration: 3000,	               
+	                animation: 'fading',
+	                thumbOpacity:0.5,			
+	                maskOpacity: '0.7',
+			descOpacity :0.7,
+			overlapOpacity :0.4,
+	                buttonOpacity: '0.4',
+	                showDesc: '',
+	                descMode: 'always',
+	                readmoretext: 'Readmore',
+	                navigation:'thumbs',
+	                urls:['','','',''],
+			thumbSpaces: [5 ,5],
+			autoPlay: 1,
+			but_prev: '.jm-slide-prev',
+			but_next: '.jm-slide-next',
+			but_play: '.jm-slide-play',
+			but_stop: '.jm-slide-stop',
+			but_playback: '.jm-slide-playback',
+			interval: 500	        });
+	     });

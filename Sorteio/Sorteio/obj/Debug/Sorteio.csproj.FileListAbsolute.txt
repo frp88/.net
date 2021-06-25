@@ -1,0 +1,54 @@
+d:\documentos\visual studio 2013\Projects\Sorteio\Sorteio\bin\Debug\Sorteio.exe.config
+d:\documentos\visual studio 2013\Projects\Sorteio\Sorteio\bin\Debug\Sorteio.exe
+d:\documentos\visual studio 2013\Projects\Sorteio\Sorteio\bin\Debug\Sorteio.pdb
+d:\documentos\visual studio 2013\Projects\Sorteio\Sorteio\obj\Debug\Sorteio.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2013\Projects\Sorteio\Sorteio\obj\Debug\Sorteio.frmPrincipal.resources
+d:\documentos\visual studio 2013\Projects\Sorteio\Sorteio\obj\Debug\Sorteio.Properties.Resources.resources
+d:\documentos\visual studio 2013\Projects\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2013\Projects\Sorteio\Sorteio\obj\Debug\Sorteio.exe
+d:\documentos\visual studio 2013\Projects\Sorteio\Sorteio\obj\Debug\Sorteio.pdb
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\bin\Debug\Sorteio.exe.config
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\bin\Debug\Sorteio.exe.manifest
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\bin\Debug\Sorteio.application
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\bin\Debug\Sorteio.exe
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\bin\Debug\Sorteio.pdb
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\obj\Debug\Sorteio.csprojResolveAssemblyReference.cache
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\obj\Debug\Sorteio.frmConfiguracao.resources
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\obj\Debug\Sorteio.frmSorteio.resources
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\obj\Debug\Sorteio.frmInicial.resources
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\obj\Debug\Sorteio.Properties.Resources.resources
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.GenerateResource.Cache
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\obj\Debug\Sorteio.exe.manifest
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\obj\Debug\Sorteio.application
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\obj\Debug\Sorteio.exe
+D:\Desktop\Itens\Feira\Sorteio\Sorteio\obj\Debug\Sorteio.pdb
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\bin\Debug\Sorteio.exe.config
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\bin\Debug\Sorteio.exe.manifest
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\bin\Debug\Sorteio.application
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\bin\Debug\Sorteio.exe
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\bin\Debug\Sorteio.pdb
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\obj\Debug\Sorteio.frmConfiguracao.resources
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\obj\Debug\Sorteio.frmSorteio.resources
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\obj\Debug\Sorteio.frmInicial.resources
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\obj\Debug\Sorteio.Properties.Resources.resources
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.GenerateResource.Cache
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\obj\Debug\Sorteio.exe.manifest
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\obj\Debug\Sorteio.application
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\obj\Debug\Sorteio.exe
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\obj\Debug\Sorteio.pdb
+D:\Desktop\Itens\Feira\Outros\Sorteio\Sorteio\obj\Debug\Sorteio.csprojResolveAssemblyReference.cache
+D:\Desktop\Sorteio\Sorteio\bin\Debug\Sorteio.exe.config
+D:\Desktop\Sorteio\Sorteio\bin\Debug\Sorteio.exe.manifest
+D:\Desktop\Sorteio\Sorteio\bin\Debug\Sorteio.application
+D:\Desktop\Sorteio\Sorteio\bin\Debug\Sorteio.exe
+D:\Desktop\Sorteio\Sorteio\bin\Debug\Sorteio.pdb
+D:\Desktop\Sorteio\Sorteio\obj\Debug\Sorteio.frmConfiguracao.resources
+D:\Desktop\Sorteio\Sorteio\obj\Debug\Sorteio.frmSorteio.resources
+D:\Desktop\Sorteio\Sorteio\obj\Debug\Sorteio.frmInicial.resources
+D:\Desktop\Sorteio\Sorteio\obj\Debug\Sorteio.Properties.Resources.resources
+D:\Desktop\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.GenerateResource.Cache
+D:\Desktop\Sorteio\Sorteio\obj\Debug\Sorteio.exe.manifest
+D:\Desktop\Sorteio\Sorteio\obj\Debug\Sorteio.application
+D:\Desktop\Sorteio\Sorteio\obj\Debug\Sorteio.exe
+D:\Desktop\Sorteio\Sorteio\obj\Debug\Sorteio.pdb
+D:\Desktop\Sorteio\Sorteio\obj\Debug\Sorteio.csprojResolveAssemblyReference.cache

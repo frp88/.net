@@ -1,0 +1,113 @@
+﻿#nav, #nav ul
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	list-style-position: outside;
+	position: relative;
+	line-height: 20px;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	z-index: 20;
+}
+#nav a
+{
+	display: block;
+	padding: 4px 48px;
+	color: #fff;
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	background-color: #099409;
+	-moz-border-radius-topright: 8px;
+	-moz-border-radius-topleft: 8px;
+	-webkit-border-top-right-radius: 8px;
+	-webkit-border-top-left-radius: 8px;
+	border: solid 1px #d5d5d5;
+}
+#nav a:hover
+{
+	background-color: #13CE17;
+	color: #fff;
+}
+#nav a:active
+{
+	background-color: #099409;
+	color: #fff;
+}
+#nav a.selecionado
+{
+	background-color: #064c02; /*#056D00;*/
+	color: #fff;
+}
+#nav li
+{
+	float: left;
+	position: relative;
+	border: 0px;
+}
+#nav ul
+{
+	position: absolute;
+	display: none;
+	width: 100px;
+	height: auto;
+	top: 30px;
+	font-size: 10px;
+}
+#nav li ul a
+{
+	/*width: 150px;*/
+	height: auto;
+	float: left;
+	background: #099409;
+	color: #fff;
+	display: block;
+	font-size: 12px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	z-index: 15;
+}
+#nav li ul a:hover
+{
+	background-color: #13CE17;
+	color: #FFF;
+	display: block;
+	z-index: 16;
+}
+#nav ul ul
+{
+	top: auto;
+	margin-right: 40px;
+}
+#nav li ul ul
+{
+	left: 15em;
+	margin-left: 50px;
+}
+#nav li:hover ul ul, #nav li:hover ul ul ul, #nav li:hover ul ul ul ul
+{
+	display: none;
+}
+#nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li li li li:hover ul
+{
+	display: block;
+}
+
+.cadAtu
+{
+	text-align: center;
+	width: 173px;
+}
+.contoleGerais
+{
+	text-align: center;
+	width: 117px;
+}
+.consRelat
+{
+	text-align: center;
+	width: 158px;
+}

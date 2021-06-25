@@ -1,0 +1,57 @@
+/* global navigations */
+.globalnav
+{
+    width: 982px;
+    height: 30px;
+    margin: auto;
+    position: relative;
+    text-align: left;
+    height: 38px !important;
+    z-index: 1;
+    clear: both;
+}
+
+.globalnav a
+{
+    float: left;
+    height: 38px;
+    line-height: 38px;
+    width: 192px;
+    overflow: hidden;
+    text-indent: -999em;
+    background-image: url(../images/bar.png);
+    background-repeat: no-repeat;
+}
+
+.globalnav a.active
+{
+    cursor: default;
+}
+
+/* flowplayer navi */
+.fp1{    background-position: 0 0; width: 203px !important;}
+.fp2{    background-position: -203px 0;}
+.fp3{    background-position: -395px 0;}
+.fp4{    background-position: -587px 0;}
+.fp5{    background-position: -779px 0; width: 203px !important;}
+
+/* mouseover */
+.fp1:hover{    background-position: 0 -42px;}
+.fp2:hover{    background-position: -203px -42px;}
+.fp3:hover{    background-position: -395px -42px;}
+.fp4:hover{    background-position: -587px -42px;}
+.fp5:hover{    background-position: -779px -42px;}
+
+/* mouse pressed */
+.fp1:active{    background-position: 0 -84px;}
+.fp2:active{    background-position: -203px -84px;}
+.fp3:active{    background-position: -395px -84px;}
+.fp4:active{    background-position: -587px -84px;}
+.fp5:active{    background-position: -779px -84px;}
+
+/* active button */
+.fp1active{    background-position: 0 -126px; width: 203px !important;}
+.fp2active{    background-position: -203px -126px !important;}
+.fp3active{    background-position: -395px -126px !important;}
+.fp4active{    background-position: -587px -126px !important;}
+.fp5active{    background-position: -779px -126px !important; width: 203px !important;}
