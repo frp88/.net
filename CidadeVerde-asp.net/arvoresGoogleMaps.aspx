@@ -1,5 +1,5 @@
 <%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true"
-    CodeFile="arvoresGoogleMaps.aspx.cs" Inherits="arvoresGoogleMaps" Title="Cidade Verde - Árvores no Google Maps" %>
+    CodeFile="arvoresGoogleMaps.aspx.cs" Inherits="arvoresGoogleMaps" Title="Cidade Verde - ï¿½rvores no Google Maps" %>
 
 <%--<%@ Register Assembly="Artem.GoogleMap" Namespace="Artem.Web.UI.Controls" TagPrefix="artem" %>--%>
 <%@ Register Assembly="GMaps" Namespace="Subgurim.Controles" TagPrefix="maps" %>
@@ -7,7 +7,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <div class="conteudo">
-        <!--CHAMAR PAGINA EM CONSTRUÇÃO DENTRO DESSA PAGINA-->
+        <!--CHAMAR PAGINA EM CONSTRUï¿½ï¿½O DENTRO DESSA PAGINA-->
         <%--<iframe id="AFrame" width="960px" height="535px" frameborder="0" scrolling="no" src="construcao.aspx">
         </iframe>--%>
         <%--<a href="~/contato.aspx" target="_blank">CONTATO</a>--%>
@@ -17,13 +17,13 @@
                 <asp:Label ID="Label8" runat="server" EnableViewState="False" Font-Bold="True" Text="Legenda:&nbsp&nbsp&nbsp&nbsp"></asp:Label>
                 <asp:Image ID="Image9" runat="server" EnableViewState="false" Height="24px" Width="20px"
                     ImageUrl="~/images/arvoreVerde.PNG" />
-                <asp:Label ID="Label9" runat="server" EnableViewState="False" Font-Bold="True" Text="Árvore Saudável&nbsp&nbsp&nbsp&nbsp"></asp:Label>
+                <asp:Label ID="Label9" runat="server" EnableViewState="False" Font-Bold="True" Text="ï¿½rvore Saudï¿½vel&nbsp&nbsp&nbsp&nbsp"></asp:Label>
                 <asp:Image ID="Image10" runat="server" EnableViewState="false" Height="24px" Width="20px"
                     ImageUrl="~/images/arvoreAzul.PNG" />
-                <asp:Label ID="Label10" runat="server" EnableViewState="False" Font-Bold="True" Text="Árvore Doente&nbsp&nbsp&nbsp&nbsp"></asp:Label>
+                <asp:Label ID="Label10" runat="server" EnableViewState="False" Font-Bold="True" Text="ï¿½rvore Doente&nbsp&nbsp&nbsp&nbsp"></asp:Label>
                 <asp:Image ID="Image15" runat="server" EnableViewState="false" Height="24px" Width="20px"
                     ImageUrl="~/images/arvoreVermelho.PNG" />
-                <asp:Label ID="Label15" runat="server" EnableViewState="False" Font-Bold="True" Text="Árvore Ferida"></asp:Label>
+                <asp:Label ID="Label15" runat="server" EnableViewState="False" Font-Bold="True" Text="ï¿½rvore Ferida"></asp:Label>
             </div>
             <div class="limpaDir">
             </div>
@@ -32,7 +32,7 @@
             <%--GOOGLE MAPS--%>
             <%--<artem:GoogleMap ID="gMaps" runat="server">
             </artem:GoogleMap>--%>
-            <maps:GMap ID="GoogleMaps" runat="server" Key="AIzaSyC9D8SWWpI1csCBdiDAe3xfdOS3oh2bcNw" />
+            <maps:GMap ID="GoogleMaps" runat="server" Key="aaaaaaaaaaaaaaa" />
             <%--FIM GOOGLE MAPS--%>
         </div>
         <%--<asp:HyperLink ID="HyperLinkContato" NavigateUrl="~/contato.aspx" runat="server"

@@ -30,7 +30,7 @@ public partial class arvoresGoogleMaps : System.Web.UI.Page
         ////Tamanho da área do google maps
         //gMaps.Width = 940;
         //gMaps.Height = 700;
-        GoogleMaps.Key = "AIzaSyC9D8SWWpI1csCBdiDAe3xfdOS3oh2bcNw";
+        GoogleMaps.Key = "aaaaaaaaaaaaaaaaa";
         ////Busca Todas Coordenadas Cadastradas das Árvores Vivas
 
         GoogleMaps.Width = 940;
